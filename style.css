@@ -50,6 +50,7 @@ body {
 }
 button.equal {
     background-color: #7b939c;
+    width: 115px;
 }
 button.operator{
     background-color: #315968;
